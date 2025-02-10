@@ -1,2 +1,5 @@
-# api-crud
-CRUD com Spring Boot, H2 e Postman
+# Crud de web services REST
+> Estudo de CRUD
+
+## Detalhes da implementação
+> Curso DevSuperior
